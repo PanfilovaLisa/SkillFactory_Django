@@ -1,8 +1,0 @@
-virtual\Scripts\activate
-
-FOR DJANGO ADMINISTRATION:
-login: admin
-password: admin891125
-
-python manage.py runserver
-python manage.py migrate
